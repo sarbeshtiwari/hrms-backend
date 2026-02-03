@@ -25,8 +25,8 @@ backend/
 
 Setup Instructions
 1. Clone the repository
-git clone 
-cd backend
+git clone https://github.com/sarbeshtiwari/hrms-backend.git
+cd hrms-backend
 
 2. Create a virtual environment
 Linux / macOS
