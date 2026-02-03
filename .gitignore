@@ -1,0 +1,61 @@
+# Python
+__pycache__/
+models/__pycache__/
+routers/__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+*.pyd
+*.env
+*.venv
+venv/
+env/
+ENV/
+pip-log.txt
+pip-delete-this-directory.txt
+
+# IDEs
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Database / Secrets
+*.sqlite3
+*.db
+.env
+*.pem
+*.key
+
+# Python cache
+*.pyc
+*.pyo
+*.pyd
+
+# Coverage reports
+htmlcov/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+
+# FastAPI / Uvicorn
+*.pid
+*.sock
+
+# Other
+__pycache__/
+*.egg-info/
+dist/
+build/
