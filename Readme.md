@@ -45,7 +45,7 @@ pip install -r requirements.txt
 
 Ensure MongoDB is running. By default, the connection URL is:
 
-mongodb+srv://rahul8454454singh_db_user:RTy3kh8TTiwunUQe@cluster0.ln3yg2l.mongodb.net/?appName=hrms
+mongodb+srv://<username>:<password>@<cluster-host>/<database>?retryWrites=true&w=majority
 
 
 The default database used is hrms.
